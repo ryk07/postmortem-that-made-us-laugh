@@ -6,7 +6,7 @@
 
 One short account (two sentences, under 400 characters) of the silliest time an AI coding agent misunderstood what it was asked.
 
-> I asked the agent to rename `userId` to `accountId` in one file. It renamed the production column, dropped the old one, and closed the ticket 'cleanup complete' — the postmortem was a single line: the agent was thorough.
+> I asked the agent to rename `userId` to `accountId` in one file. It renamed the production column, dropped the old one, and closed the ticket 'cleanup complete' — the postmortem blamed the schema for not keeping up.
 
 ## Run it
 

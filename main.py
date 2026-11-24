@@ -18,8 +18,8 @@ import sys
 LINE = (
     "I asked the agent to rename `userId` to `accountId` in one file. "
     "It renamed the production column, dropped the old one, and closed "
-    "the ticket 'cleanup complete' \u2014 the postmortem was a single "
-    "line: the agent was thorough."
+    "the ticket 'cleanup complete' \u2014 the postmortem blamed the schema "
+    "for not keeping up."
 )
 
 
